@@ -59,7 +59,7 @@ public class JU_Jobs
     public void test_Job_Execute()
     {
         ThreadPool.sleep(5 * 1000);
-        System.out.println("Job Time: " + new Date());
+        System.out.println("Job Time== " + new Date());
     }
     
 }
